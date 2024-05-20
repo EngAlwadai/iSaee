@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saeed - CV</title>
+    <meta name="description" content="My CV">
+    <meta name="keywords" content="CV">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="icons/CV.fg.ico">
+    <link href="<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=El+Messiri:wght@400;500;600;700&family=Ibarra+Real+Nova&family=Josefin+Sans:wght@100;200;300;400;500;600;700&family=M+PLUS+Rounded+1c:wght@100;300;400&family=Ysabeau+Office:wght@1;100;200;300;400;500;600;700;800;900;1000&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <section class="home" id="home">
+        <nav>
+            <h2>My Project - <span>CV</span></h2>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#Achievements">Achievements</a></li>
+                <li><a href="#Skills">Skills</a></li>
+                <li><a href="#Contact Me">Contact Me</a></li>
+            </ul>
+
+            <a href="#End" class="btn">Subscribe</a>
+
+        </nav>
+        <div class="content">
+            <div class="container-texts">
+                <h4>Hello , I'm</h4>
+                <h1>Saeed <span>Ahmad</span></h1>
+                <h3>I'm a first year<span> Software Engneering</span> student at King Fahd University of Petroleum and Minerals.
+                </h3>
+                <a href="#" class="btn">تحميل السية الذاتية</a>
+
+                <div class="social">
+                    <a href=""target="_blank"><img src="imgs/twitter.png" alt=""></a>
+                    <a href=""target="_blank"><img src="imgs/Instgram.png" alt=""></a>
+                    <a href=""target="_blank"><img src="imgs/Tiktok.png" alt=""></a>
+                    <a href=""target="_blank"><img src="imgs/telegram.png" alt=""></a>
+                </div>
+
+            </div>
+
+            <div class="container-images">
+                <img src="imgs/jk.png" alt="" class="shape">
+                <img src="imgs/mop.png" alt="" class="pic">
+            </div>
+        </div>
+    </section>
+
+    <section class="about" id="about">
+        <div class="container-images">
+            <img src="imgs/Code typing-amico.png" alt="">
+        </div>
+        <div class="container-texts">
+            <h1> <span>عني</span></h1>
+            <p> أنا خريج ، وقد انضممت إلى تخصص هندسة البرمجيات في
+                جامعة الملك فهد للبترول والمعادن ، وآمل أن أذهب للدراسة في
+                الولايات المتحدة لإكمال دراستي في أفضل الجامعات في العالم ، لذلك أنا
+                مهتم بمعرفة التكنولوجيا والذكاء الاصطناعي ،
+                وكل ما يتعلق بعلوم الحاسوب والبرمجة.
+            </p>
+        </div>
+    </section>
+
+    <section class="Achievements" id="Achievements">
+        <h1 class="text-center"><span>إنجازاتي</span></h1>
+        <div class="box">
+            <a class="card" href="https://drive.google.com/file/d/1m7qG3X4j-C2Wsk55ImFz5bD6ESRFowce/view?usp=drivesdk" target="_blank">
+                <em class="fa-solid fa-person"></em>
+                <h5>دراسيا</h5>
+                <div class="par">
+                    <p>أنا طالب موهبة وقد حصلت على 91% في اختبار القدرات العقلية.</p>
+                </div>
+            </a>
+            <a class="card" href="https://drive.google.com/file/d/1Q8wgg6FrqqomSVvNTJwZpzzY7Si2RwPb/view?usp=drivesdk" target="_blank">
+                <em class="fa-solid fa-ranking-star"></em>
+                <h5>جوائزي</h5>
+                <div class="par">
+                    <p> لقد شاركت في مسابقة الفيرست ليقو ليق و بعض المسابقات الاخرى</p>
+                </div>
+            </a>
+            <a class="card" href="https://drive.google.com/file/d/183LOXmfGcTeSu7CXkDqOUkcBP-eEEgRq/view?usp=drivesdk" target="_blank">
+                <em class="fa-brands fa-studiovinari"></em>
+                <h5>تطوعاتي</h5>
+                <div class="par">
+                    <p>لدي ساعات تطوعية عديدة وبعض المشاركات الاصفية الأخرى.</p>
+                </div>
+            </a>
+            <a class="card" href="#">
+                <em class="fa-solid fa-code"></em>
+                <h5>البرمجة</h5>
+                <div class="par">
+                    <p>اسعى لتطوير نفسي في مجال البرمجة وبناء المواقع.</p>
+                </div>
+            </a>
+        </div>
+    </section>
+
+    <section class="skills" id="Skills">
+        <div class="container-skills">
+            <h1><span></span> مهاراتي</h1>
+            <div class="content-skills">
+                <h5><span> - مهتم في التعلم وتلقي المزيد لاحقق اهدافي</span></h5>
+                <h5><span> - قادر على تحمل الضغوطات</span></h5>
+                <h5><span> - احب مساعة الاخرين الذين هم في مواقف كنت انا بها </span></h5>
+                <h5><span> - مهتم في التوازن في مجالات الحياة</span></h5>
+            </div>
+        </div>
+        <div class="container-images">
+            <img src="imgs/Nerd-amico (2).png" alt="">
+        </div>
+    </section>
+
+    <section class="Contact" id="Contact Me">
+        <h1 class="text-center"><span> تواصل </span> معي</h1>
+        <div class="box2">
+            <div class="card2" href="#">
+                <em class="fa-solid fa-envelope"></em>
+                <h5>بريد</h5>
+                <div class="par">
+                    <p>i.56moah@gmail.com</p>
+                </div>
+            </div>
+            <div class="card2" href="#">
+                <em class="fa-solid fa-phone"></em>
+                <h5>رقم الهاتف</h5>
+                <div class="par">
+                    <p>0506090312</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="content-footer" id="End">
+            <a href="#home"><h2>محمد <span>احمد</span></h2></a>
+            <p class="end">
+                <i class="fa-solid fa-angles-up fa-bounce fa-sm"></i>
+            <p>
+              <span></span>للمزيد عني , الرجاء النقر على الاسم في الاعلى لمتابعتي في حساباتي في مواقع التواصل الاجتماعي
+            </p>
+            <p class="end">
+                حقوق النشر بواسطة محمد احمد
+            </p>
+        </div>
+    </footer>
+
+</body>
+</html>
